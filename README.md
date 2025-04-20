@@ -27,6 +27,9 @@ An Android application that allows users to browse, search, and manage books in 
 | **Material UI**  | Modern UI components for Android |
 
 ---
+
+🛠 Project Structure:
+
 Bookstore-App/
 ├── app/
 │   ├── src/
